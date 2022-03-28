@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "streamer-sample",
+    "slug": "streamer-sample",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "streamer-sample"
+}
